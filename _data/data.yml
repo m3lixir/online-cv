@@ -4,34 +4,34 @@
 
 sidebar:
     position: right # position of the sidebar : left or right
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Melisa Savich
+    tagline: Cybersecurity R&D Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: example@email.com
-    phone: 012 345 6789
-    timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+    email: melisasavich AT gmail DOT com
+    phone:
+    timezone: America/Detroit # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
     citizenship:
-    website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-    linkedin: alandoe
-    xing: alandoe
-    github: jekyll
+    website: https://melisasavich.com/ # Include the full website URL, including "http://" or "https://".
+    linkedin: melisasavich
+    xing:
+    github: m3lixir
     telegram: # add your nickname without '@' sign
-    gitlab:
+    gitlab: melisasavich
     bitbucket:
-    twitter: '@jekyllrb'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    twitter:
+    stack-overflow: 5404930/m3lixir
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
     mastodon:  # Please include your full Mastodon link here.
     hackerrank: # Please provide your HackerRank username.
     leetcode: # Please provide your LeetCode username.
-    pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
+    pdf: https://melisasavich.com/print # Add a PDF link here if you want to include a PDF custom version in your resume.
 
     languages:
       title: Languages
@@ -39,61 +39,60 @@ sidebar:
         - idiom: English
           level: Native
 
-        - idiom: French
-          level: Professional
+        - idiom: Macedonian
+          level: Native
 
-        - idiom: Spanish
-          level: Professional
+        - idiom: French
+          level: Conversational
 
     interests:
-      title: Interests
+      title: Fun Facts
       info:
-        - item: Climbing
-          link:
+        - item: 🧠 My Erdős number is 4
+          link: https://www.csauthors.net/distance/melisa-savich/paul-erdos
 
-        - item: Snowboarding
-          link:
+        - item: 📍 I am a level 5 Google Maps Local Guide
+          link: https://www.google.com/maps/contrib/106428733692930880158
 
-        - item: Cooking
-          link:
+        - item: 🔒 I have 39 accounts secured with 2FA in Duo Mobile
+          link: https://duo.com/product/multi-factor-authentication-mfa/duo-mobile-app
 
 career-profile:
-    title: Career Profile
+    title: About Me
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      With over 7 years in cybersecurity, I specialize in fuzzing techniques, 
+      CI/CD pipeline implementation, and system-level security engineering. My 
+      leadership in team development led to a 20% improvement in code quality, 
+      while my work on advanced fuzzing tools resulted in a 30% increase in 
+      coverage. I’ve streamlined the transition of critical cybersecurity 
+      technologies, significantly enhancing national cyber resilience. My 
+      expertise includes securing high-consequence networks, developing 
+      cyber ranges, and driving innovation in system security.
+
+
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: M.S. Computer Science
+        university: New York University
+        time: 2020
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+          New York, NY
+            - Thesis: Taint-Driven Firmware Fuzzing of Embedded Systems
+      - degree: B.S. Computer Science
+        university: University of Michigan
+        time: 2018
+        details:
+      - degree: B.S. Women's Studies
+        university: University of Michigan
+        time: 2018
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          New York, NY
+            - Thesis: Taint-Driven Firmware Fuzzing of Embedded Systems
+          
 
 experiences:
-    title: Experiences
+    title: Experience
     info:
       - role: Lead Developer
         time: 2015 - Present
@@ -189,18 +188,6 @@ projects:
         link: "#"
         tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
 oss:
     title: OSS Contributions
     intro: >
@@ -222,24 +209,26 @@ oss:
 
 publications:
     title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+    intro: Follow me on Google Scholar. https://scholar.google.com/citations?user=deS7-_gAAAAJ
     papers:
-      - title: The Art of Computer Programming
+      - title: Taint-Driven Firmware Fuzzing of Embedded Systems
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        authors: 
+        conference: 
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: "CommPact: Evaluating the Feasibility of Autonomous Vehicle Contracts"
+        link: "https://jeremy-erickson.com/static_docs/commpact/Extended_Paper.pdf"
+        authors: Jeremy Erickson; Shibo Chen; Melisa Savich; Shengtuo Hu; Z. Morley Mao
+        conference: 2018 IEEE Vehicular Networking Conference (VNC)
 
-      - title: A syntax directed compiler for Algol 60
+      - title: "CommPact: Exploring the Feasibility of Autonomous Vehicle Contracts"
         link: "#"
         authors: Edgar T. Irons
+        conference: "Comm. ACM 4 (1961), 51–55"
+
+      - title: Artificial Network Traffic Generation
+        link: "https://www.osti.gov/biblio/1507919"
+        authors: Savich, Melisa Kristi
         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
@@ -265,4 +254,4 @@ skills:
         level: 60%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Copyright © 2024 Melisa K. Savich
