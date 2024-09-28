@@ -8,7 +8,7 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Melisa Savich
+    name: Melisa K. Savich
     tagline: Cybersecurity R&D Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
@@ -76,9 +76,7 @@ education:
       - degree: M.S. Computer Science
         university: New York University
         time: 2020
-        details: |
-          New York, NY
-            - Thesis: Taint-Driven Firmware Fuzzing of Embedded Systems
+        details:
       - degree: B.S. Computer Science
         university: University of Michigan
         time: 2018
@@ -86,10 +84,7 @@ education:
       - degree: B.S. Women's Studies
         university: University of Michigan
         time: 2018
-        details: |
-          New York, NY
-            - Thesis: Taint-Driven Firmware Fuzzing of Embedded Systems
-          
+        details:
 
 experiences:
     title: Experience
@@ -135,32 +130,19 @@ experiences:
 certifications:
       title: Certifications
       list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
+        - name: GitHub Foundations Certification
+          start: 09/2024
+          end: 09/2027
+          organization: GitHub
+          credentialid: 994c2b36-bdf9-483d-b4ad-5e862c59d8ad
           credentialurl: www.google.com
-          credentialname: Google
-          details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
+          credentialname: GitHub2
+          details: Demonstrates understanding of key GitHub concepts, including collaboration, Git basics, and repository management, with an emphasis on foundational skills for working within GitHub.
         - name: Git learning
           start: 2019
           end:
           organization: Microsoft
-          credentialid: 111-222
+          credentialid:
           credentialurl: www.github.com
           credentialname: Github
           details: |
@@ -180,32 +162,13 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
+      - title: 48 Flavors Ice Cream
         link: "#hook"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: DevStudio
+      - title: Melicious Makeup & Esthetics
         link: "#"
         tagline: "A responsive website template designed to help web developers/designers market their services."
-
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
     title: Publications
