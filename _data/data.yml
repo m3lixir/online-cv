@@ -73,37 +73,54 @@ experiences:
         time: 10/2023 - Current
         company: 48 Flavors Ice Cream • Westland, MI
         details: |
-          - 
+          - Boosted food delivery platform orders by 55% within 1 year by revamping menus, creating AI-assisted item descriptions, and designing e-commerce visuals, leading to a more user-friendly and visually appealing online ordering experience.
+          - Optimized online visibility and operations by creating 2 websites using Google Sites and Square, managing Google Business Profile, and integrating 6 Google products for 48 Flavors' online debut.
+          - Improved online cake ordering system by configuring a 24-hour preparation time, resulting in over 100 online cake orders over a 1-year period post-separation from the Baskin-Robbins franchise, driving revenue growth.
 
       - role: Cybersecurity R&D Engineer
         time: 06/2020 - 10/2023
         company: Sandia National Laboratories • Livermore, CA
         details: |
-          - 
+          - Developed a novel in-house fuzzer using ensemble fuzzing, harmonizing 5-10 unique fuzzers, leading to improved threat detection and response capabilities.
+          - Created testing harnesses for 4 binary-only targets of interest using AFL++ variants, reaching 70% - 90% in coverage, satisfying our sponsor's requirements for robust security assurance.
+          - Improved threat detection capabilities by leveraging underutilized malware analysis reports to recommend 3 robust malware targets for fuzzing, enhancing threat intelligence and promoting InnerSource collaboration.
+          - Strengthened threat analysis capabilities using an in-house scalable similarity engine to create additional similarity measures from the CVE dataset, improving the effective identification of crucial areas of the binary, contributing to improved security and threat mitigation strategies.
+          - Researched and implemented organizational frameworks to meet CISA IOD's needs, laying the foundation for the Sensemaking framework used in the CISA's Operational Activities Explorer, enhancing real-time operational analysis and coordination across critical infrastructure sectors.
+          - Led the independent management of weekly backlog refinement, ensuring project alignment and efficient progress, traditionally handled by product managers.
+          - Identified 50 top intern candidates and recruited 5 interns for the CCD program, strengthening the talent pipeline for cybersecurity R&D.
+          - Proposed and enforced team development standards, such as requiring two reviewers per pull request, resulting in a 30% reduction in debug time and fostering a collaborative, high-performance environment for developing cutting-edge cybersecurity solutions.
 
       - role: Critical Skills Recruiting Program Fellow
         time: 06/2018 - 05/2020
         company: Sandia National Laboratories • Albuquerque, NM
         details: |
-          - 
+          - Created a robust framework in the ICS/SCADA modeling platform to facilitate Data Acquisition (DAQ) with Hardware-in-the-Loop (HITL), strengthening infrastructure security applications.
+          - Conducted research in cyber modeling and simulation, focusing on high-consequence networks, high-value networks, embedded systems, and control systems.
 
       - role: Center for Cyber Defenders Intern
         time: 05/2017 - 05/2018
         company: Sandia National Laboratories • Albuquerque, NM
         details: |
-          - 
+          - Implemented honeypots within an experimental cyber range designed to simulate and analyze sophisticated cyber threats.
+          - Improved automated ELK dashboard deployment and monitoring within an ICS/SCADA platform, enhancing the analysis of cyber/physical impacts on critical infrastructure systems.
+          - Enhanced orchestration of modeling environments by targeting 5 protocols with minimega's protonuke, integrated into an in-house simulation platform.
+          - Developed a drone simulation program with cyber disruption features, aiding in the analysis of vulnerabilities and defense strategies in unmanned systems.
 
       - role: IA for Introduction to Computer Security
         time: 09/2017 - 04/2018
         company: University of Michigan College of Engineering • Ann Arbor, MI
         details: |
-          - 
+          - Enhanced Cybersecurity course content and projects, ensuring alignment with educational objectives, resulting in an increase in student engagement and course satisfaction.
+          - Oversaw the smooth administration of exams for 300+ students, managing writing, testing, grading, and testing locations, ensuring efficient processes and positive student experiences.
+          - Supported student success by delivering effective answers to 10+ curriculum-related questions on Piazza daily, contributing to a dynamic learning atmosphere in computer science courses.
 
       - role: IA for Programming & Introductory Data Structures
         time: 09/2016 - 05/2017
         company: University of Michigan College of Engineering • Ann Arbor, MI
         details: |
-          - 
+          - Managed exam logistics for 1000+ students, ensuring smooth testing process from writing to grading, maintaining high standards of academic integrity.
+          - Utilized custom scripts to expand Stanford's Measure of Software Similarity (MOSS), uncovering potential academic misconduct in up to 5 students per project across 5 course projects, promoting a culture of academic honesty.
+          - Conducted weekly sessions to reinforce introductory programming concepts, reaching an average of 25 students, resulting in improved understanding and application of introductory programming principles.
 
       - role: Undergraduate Research Assistant
         time: 01/2016 - 12/2016
@@ -132,8 +149,8 @@ certifications:
           details:
 
         - name: GitHub Actions Certification
-          start: 10/2024
-          end: 10/2027
+          start: Current
+          end:
           organization: Credly
           credentialid: FIXME
           credentialurl: credly.com/badges/FIXME
