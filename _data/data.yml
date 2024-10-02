@@ -126,13 +126,17 @@ experiences:
         time: 01/2016 - 12/2016
         company: University of Michigan College of LSA • Ann Arbor, MI
         details: |
-          - 
+          - Researched the role of the internet as a source of informal sex education for middle school adolescents, as part of a larger project on classroom processes.
+          - Analyzed and recommended academic papers relevant to the research topic, supporting the Graduate Student Instructor (GSI).
+          - Wrote comprehensive summaries and analyses, contributing to the understanding of informal sex education sources.
 
       - role: Computer Operator
         time: 09/2015 - 09/2016
         company: University of Michigan Medical School • Ann Arbor, MI
         details: |
-          - 
+          - Served as the first point of contact for technical issues within the Medical School, offering support across various platforms and devices.
+          - Efficiently handled calls and service requests through a ticketing system.
+          - Addressed and resolved issues in Windows, OSX, mobile devices, and Microsoft Office products.
 
 
 certifications:
@@ -151,10 +155,10 @@ certifications:
         - name: GitHub Actions Certification
           start: Current
           end:
-          organization: Credly
-          credentialid: FIXME
-          credentialurl: credly.com/badges/FIXME
-          credentialname: Credly
+          organization:
+          credentialid:
+          credentialurl:
+          credentialname:
           details:
 
 
