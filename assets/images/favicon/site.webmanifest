@@ -48,8 +48,8 @@
             "type": "image/png"
         }
     ],
-    "theme_color": "#2e933c",
-    "background_color": "#2e933c",
+    "theme_color": "#0086a5",
+    "background_color": "#181d0f",
     "start_url": "https://melisasavich.com",
     "display": "standalone",
     "orientation": "portrait"
