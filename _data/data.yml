@@ -169,12 +169,12 @@ publications:
     papers:
 
       - title: Taint-Driven Firmware Fuzzing of Embedded Systems
-        link: /pubs/Taint-Driven_Firmware_Fuzzing_of_Embedded_Systems.pdf
+        link: /pubs/taint-driven-firmware-fuzzing-embedded-systems-thesis.pdf
         authors:
         conference: New York University • 2020
 
       - title: "CommPact: Evaluating the Feasibility of Autonomous Vehicle Contracts"
-        link: /pubs/CommPact_Evaluating_the_Feasibility_of_Autonomous_Vehicle_Contracts.pdf
+        link: /pubs/commpact-evaluating-autonomous-vehicle-contracts.pdf
         authors:
         conference: IEEE Vehicular Networking Conference (VNC) • 2018
 
@@ -184,7 +184,7 @@ publications:
         conference: escar USA • 2018
 
       - title: Artificial Network Traffic Generation
-        link: /pubs/Artificial_Network_Traffic_Generation.pdf
+        link: /pubs/artificial-network-traffic-generation-poster.pdf
         authors:
         conference: SNL Student Internship Program (SIP) Symposium • 2017
 
