@@ -171,23 +171,22 @@ publications:
       - title: Taint-Driven Firmware Fuzzing of Embedded Systems
         link: /pubs/taint-driven-firmware-fuzzing-embedded-systems-thesis.pdf
         authors:
-        conference: New York University • 2020
+        conference: New York University • 2020-05-15
 
       - title: "CommPact: Evaluating the Feasibility of Autonomous Vehicle Contracts"
         link: /pubs/commpact-evaluating-autonomous-vehicle-contracts.pdf
         authors:
-        conference: IEEE Vehicular Networking Conference (VNC) • 2018
+        conference: IEEE Vehicular Networking Conference (VNC) • 2018-12-05
 
-      - title: "CommPact: Exploring the Feasibility of Autonomous Vehicle Contracts"
-        link: https://jeremy-erickson.com/static_docs/commpact/Extended_Paper.pdf
+      - title: "Taint-Driven Embedded Software Fuzzing"
+        link: /pubs/taint-driven-embedded-software-fuzzing-poster.pdf
         authors:
-        conference: escar USA • 2018
+        conference: RSA Conference • 2019-03-06
 
       - title: Artificial Network Traffic Generation
         link: /pubs/artificial-network-traffic-generation-poster.pdf
         authors:
-        conference: SNL Student Internship Program (SIP) Symposium • 2017
-
+        conference: Office of Scientific and Technical Information (OSTI) • 2017-07-26
 
 footer: >
     © 2024 Melisa K. Savich
