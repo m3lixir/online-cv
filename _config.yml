@@ -6,7 +6,7 @@ url: 'https://melisasavich.com'
 
 #change it according to your repository name
 # disabling since we are using a custom domain
-#baseurl: '/online-cv' 
+baseurl: '/online-cv' 
 
 description: Showcasing over 7 years of expertise in cybersecurity, I specialize in fuzzing techniques, CI/CD pipeline implementation, and system-level security engineering. As a leader in team development, I achieved a 20% increase in code quality. Over the past 3 years, I have successfully transitioned cybersecurity technologies, significantly enhancing national cyber infrastructure. Explore my resume to learn more about my innovative solutions and industry-leading projects.
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
